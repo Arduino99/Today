@@ -4,21 +4,21 @@
 
 "Today" is a sleek productivity app developed as part of my hands-on journey through [Apple's Official Developer Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-today). This iOS app is designed to assist users in organizing their day-to-day tasks with an added touch of calm aesthetics and smooth animations.
 
-![Today App Main Screen](screenshot.png)
+<img src="screenshot.png" width="300">
 
 ### Features
 
 - **Reminder List**: Today starts with a list of tasks, allowing users to gain an overview of their reminders. With intuitive categories like 'Today,' 'Future,' and 'All,' users can seamlessly navigate through their tasks. The progress circle dynamically updates, offering users a satisfying visual representation of their productivity.
   
-  ![Reminder List](screenshot2.png)
+  <img src="screenshot2.png" width="300">
 
 - **Detailed Reminders**: Users can delve into each reminder for more information, including title, due date, time, and additional notes. The app provides an 'Edit' mode for users to easily update their reminder's details.
   
-  ![Reminder Detail](screenshot3.png)
+  <img src="screenshot3.png" width="300">
 
 - **Add Reminders**: A user-friendly interface for adding new reminders ensures that keeping track of tasks is just a tap away. This feature reuses cells from the 'Edit' view, providing a consistent user experience.
   
-  ![Add Reminder](screenshot4.png)
+  <img src="screenshot4.png" width="300">
 
 ## Key Learning Areas
 
