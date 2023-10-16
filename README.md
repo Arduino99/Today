@@ -1,4 +1,4 @@
-# Today - A Daily Productivity App
+# Today
 
 ## Overview
 
